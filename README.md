@@ -35,7 +35,7 @@ See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&lo
     <td width="50%" valign="top">
       <h3 align="center">Powerful Dashboard</h3>
         <br />
-        <a target="_blank" href="https://github.com/patsok/odin-dashboard">
+        <a target="_blank" href="https://patsok.github.io/odin-dashboard/">
             <img src="https://camo.githubusercontent.com/f18d288733bc5bf233bc611fdc59e973131a82f014cef94958de33f17c3de08f/68747470733a2f2f692e696d6775722e636f6d2f66376a4c6733712e706e67" width="100%" alt="Sign up form"/>
         </a><br />
         <p align="center">
@@ -46,7 +46,7 @@ See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&lo
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=informational&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align='center'><strong>HTML, CSS, JS</strong><br>Dashboard storing smaller projects for The Odin Project</p>
+        <p align='center'><br><strong>HTML, CSS, JS</strong><br>Dashboard storing smaller projects for The Odin Project</p>
     </td>
         <td width="50%" valign="top">
       <h3 align="center">Sign up for Norse Mythology</h3>
@@ -70,7 +70,7 @@ See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&lo
     <td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe</h3>
         <br />
-        <a target="_blank" href="https://github.com/patsok/odin-tictactoe">
+        <a target="_blank" href="https://patsok.github.io/odin-tictactoe/">
             <img src="https://media3.giphy.com/media/ujYzgd6jWLcsb5ot69/giphy.gif" width="100%" alt="Sign up form"/>
         </a><br />
         <p align="center">
@@ -81,7 +81,7 @@ See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&lo
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=informational&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align='center'><strong>HTML, CSS, JS</strong><br>Upgraded game from the childhood for The Odin Project</p>
+        <p align='center'><br><strong>HTML, CSS, JS</strong><br>Upgraded game from the childhood for The Odin Project</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">New brand calculator</h3>
