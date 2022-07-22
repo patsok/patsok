@@ -33,6 +33,22 @@ See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&lo
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Powerful Dashboard</h3>
+        <br />
+        <a target="_blank" href="https://github.com/patsok/odin-dashboard">
+            <img src="https://camo.githubusercontent.com/f18d288733bc5bf233bc611fdc59e973131a82f014cef94958de33f17c3de08f/68747470733a2f2f692e696d6775722e636f6d2f66376a4c6733712e706e67" width="100%" alt="Sign up form"/>
+        </a><br />
+        <p align="center">
+  <a href="https://github.com/patsok/odin-dashboard" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=REPO&color=0c7767&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://patsok.github.io/odin-dashboard/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=informational&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align='center'><strong>HTML, CSS, JS</strong><br>Dashboard storing smaller projects for The Odin Project</p>
+    </td>
+        <td width="50%" valign="top">
       <h3 align="center">Sign up for Norse Mythology</h3>
         <br />
         <a target="_blank" href="https://patsok.github.io/odin-signupform/">
@@ -47,6 +63,25 @@ See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&lo
   </a>
       </p>
         <p align='center'><strong>HTML, CSS, JS</strong><br>Sign up form in norse-themed design for The Odin Project</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Tic Tac Toe</h3>
+        <br />
+        <a target="_blank" href="https://github.com/patsok/odin-tictactoe">
+            <img src="https://media3.giphy.com/media/ujYzgd6jWLcsb5ot69/giphy.gif" width="100%" alt="Sign up form"/>
+        </a><br />
+        <p align="center">
+  <a href="https://github.com/patsok/odin-tictactoe" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=REPO&color=0c7767&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://patsok.github.io/odin-tictactoe/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=informational&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align='center'><strong>HTML, CSS, JS</strong><br>Upgraded game from the childhood for The Odin Project</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">New brand calculator</h3>
@@ -63,41 +98,6 @@ See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&lo
   </a>
       </p>
         <p align='center'><strong>HTML, CSS, JS</strong><br>Javascript calculator for everyday use for The Odin Project</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Etch-a-sketch</h3>
-        <br />
-        <a target="_blank" href="https://patsok.github.io/odin-etch/">
-            <img src="https://media.giphy.com/media/wVlDY6dx2xxY1uovRE/giphy.gif" width="100%" alt="Sign up form"/>
-        </a><br />
-        <p align="center">
-  <a href="https://github.com/patsok/odin-etch" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=REPO&color=0c7767&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://patsok.github.io/odin-etch/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=informational&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align='center'><strong>HTML, CSS, JS</strong><br>Upgraded toy from the childhood for The Odin Project</p>
-    </td>
-      <td width="50%" valign="top">
-      <h3 align="center">Save the planet from the evil machines</h3>
-        <br />
-        <a target="_blank" href="https://patsok.github.io/odin-rock-paper-scissors/">
-            <img src="https://media.giphy.com/media/21wziWqRVbQDcNFyhe/giphy.gif" width="100%" alt="Sign up form"/>
-        </a><br />
-        <p align="center">
-  <a href="https://github.com/patsok/odin-rock-paper-scissors" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=REPO&color=0c7767&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://patsok.github.io/odin-rock-paper-scissors/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=informational&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align='center'><strong>HTML, CSS, JS</strong><br>Rock, paper & scissors fun mode for The Odin Project</p>
     </td>
   </tr>
 </table>
