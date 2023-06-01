@@ -1,14 +1,11 @@
-<a href="https://linktr.ee/patsok" target="_blank"><img src="https://i.imgur.com/gOsfwOB.png" width="100%"> </a>
+<a href="https://linktr.ee/patsok" target="_blank"><img src="https://i.imgur.com/p17D2si.png" width="100%"> </a>
 
 <p align="center">
-  <a href="mailto:patryk.sokol@gmail.com" target="_blank">
+  <a href="mailto:patryk.sokol.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/patryk-sokol/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.behance.net/falco-design" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
     <a href="https://www.facebook.com/patryksokol0/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -16,15 +13,18 @@
       <a href="https://www.instagram.com/patsok0/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+    <a href="https://www.behance.net/falco-design" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
   </p>
   
   ---
 
-Hi! I'm at the beginning of the (hopefully) fruitful journey to being a web developer with a background in the Graphic Design.
-I am motivated by the power of technology as a tool for making world a little easier and more friendly.
+Hi! I'm an aspiring front-end developer with a passion for crafting engaging and user-friendly web experiences. With 1.5 years of experience in JavaScript and Vue.js, I have honed my skills in building interactive and responsive web applications. Currently, I am enthusiastically delving into the world of Nuxt.js and combining my background in Graphic Design with my technical expertise, I strive to create visually stunning and highly functional websites that leave a lasting impression on users.
 
-I'm open to work - interested in junior positions. If you know any offers, please let me know! Especially if you're looking for a fairly humble but efficient, problem-solving oriented person.
-See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&logo=linktree&logoColor=white"/>](https://linktr.ee/patsok) for more information about me!
+My journey into web development began with a deep fascination for technology's ability to simplify and enhance our lives. This fascination has evolved into a driving force behind my desire to contribute to the digital world. I am constantly motivated to stay up-to-date with the latest trends and technologies, eager to embrace new challenges and push the boundaries of my skillset. While I may still consider myself a junior developer, my determination and problem-solving mindset enable me to efficiently tackle complex tasks and deliver effective solutions.
+
+I am seeking positions that will allow me to further refine my skills and contribute to meaningful projects. If you come across any opportunities that align with my profile, I would greatly appreciate your support. I bring a humble yet efficient approach to my work, always striving to create solutions that address users' needs and provide an exceptional browsing experience. Let's collaborate and create a more user-friendly and accessible digital landscape together. See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&logo=linktree&logoColor=white"/>](https://linktr.ee/patsok) for more information about me!
 
 ---
 
@@ -32,7 +32,23 @@ See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&lo
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
+        <td width="50%" valign="top">
+      <h3 align="center">INVO Academy platform</h3>
+        <br />
+        <a target="_blank" href="https://platform.invo.academy">
+            <img src="https://i.imgur.com/7Og0hyh.png" width="100%" alt="Sign up form"/>
+        </a><br />
+        <p align="center">
+<!--   <a href="https://github.com/patsok/odin-dashboard" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=REPO&color=0c7767&style=plastic&logo=github&logo-color=white"/>
+  </a>   -->
+  <a href="https://platform.invo.academy" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=informational&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align='center'><strong>Vue</strong><br>Master the art of Frontend Development with comprehensive project-based learning curriculum.</p>
+    </td>
+<!--     <td width="50%" valign="top">
       <h3 align="center">Powerful Dashboard</h3>
         <br />
         <a target="_blank" href="https://patsok.github.io/odin-dashboard/">
@@ -47,7 +63,7 @@ See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&lo
   </a>
       </p>
         <p align='center'><br><strong>HTML, CSS, JS</strong><br>Dashboard storing smaller projects for The Odin Project</p>
-    </td>
+    </td> -->
         <td width="50%" valign="top">
       <h3 align="center">Sign up for Norse Mythology</h3>
         <br />
@@ -118,21 +134,26 @@ See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&lo
       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/><br>
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+    <img src="https://camo.githubusercontent.com/6ddea140b463f77ca151e8d60618c4398a6193ecb284512838c6cb8f556d8f5a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e7578742e6a7326636f6c6f723d323232323232266c6f676f3d4e7578742e6a73266c6f676f436f6c6f723d303044433832266c6162656c3d"/>
+  <br>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
+        <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
+        <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
 
 <h1 align="center">Software</h1>
 <p align="center">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/><br><br>
        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
@@ -143,7 +164,6 @@ See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&lo
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white"/>
-      <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
 
 </p>
 <h2 align="center">Next in mind</h2><p align="center">
@@ -152,7 +172,6 @@ See [<img src="https://img.shields.io/badge/linktree-0C9442?style=flat-square&lo
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></p>
 
