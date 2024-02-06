@@ -20,7 +20,7 @@
   
   ---
 
-Hi! I'm an aspiring front-end developer with a passion for crafting engaging and user-friendly web experiences. With 1.5 years of experience in JavaScript and Vue.js, I have honed my skills in building interactive and responsive web applications. Currently, I am enthusiastically delving into the world of Nuxt.js and combining my background in Graphic Design with my technical expertise, I strive to create visually stunning and highly functional websites that leave a lasting impression on users.
+Hi! I'm an aspiring front-end developer with a passion for crafting engaging and user-friendly web experiences. With 1.5 years of experience in JavaScript and Vue.js, I have honed my skills in building interactive and responsive web applications. Currently, I am enthusiastically delving into the world of Vue/Nuxt and combining my background in Graphic Design with my technical expertise, I strive to create visually stunning and highly functional websites that leave a lasting impression on users.
 
 My journey into web development began with a deep fascination for technology's ability to simplify and enhance our lives. This fascination has evolved into a driving force behind my desire to contribute to the digital world. I am constantly motivated to stay up-to-date with the latest trends and technologies, eager to embrace new challenges and push the boundaries of my skillset. While I may still consider myself a junior developer, my determination and problem-solving mindset enable me to efficiently tackle complex tasks and deliver effective solutions.
 
@@ -33,20 +33,20 @@ I am seeking positions that will allow me to further refine my skills and contri
   
   <tr>
         <td width="50%" valign="top">
-      <h3 align="center">INVO Academy platform</h3>
+      <h3 align="center">Sun.store marketplace</h3>
         <br />
-        <a target="_blank" href="https://platform.invo.academy">
-            <img src="https://i.imgur.com/7Og0hyh.png" width="100%" alt="Sign up form"/>
+        <a target="_blank" href="https://sun.store">
+            <img src="https://i.imgur.com/hE9EMbI.png" width="100%" alt="Sign up form"/>
         </a><br />
         <p align="center">
 <!--   <a href="https://github.com/patsok/odin-dashboard" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=REPO&color=0c7767&style=plastic&logo=github&logo-color=white"/>
   </a>   -->
-  <a href="https://platform.invo.academy" target="_blank">
+  <a href="https://sun.store" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=informational&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align='center'><strong>Vue</strong><br>Master the art of Frontend Development with comprehensive project-based learning curriculum.</p>
+        <p align='center'><strong>Nuxt</strong><br>Find solar equipment for the best price in the marketplace that connects installers with sellers</p>
     </td>
 <!--     <td width="50%" valign="top">
       <h3 align="center">Powerful Dashboard</h3>
@@ -65,6 +65,25 @@ I am seeking positions that will allow me to further refine my skills and contri
         <p align='center'><br><strong>HTML, CSS, JS</strong><br>Dashboard storing smaller projects for The Odin Project</p>
     </td> -->
         <td width="50%" valign="top">
+      <h3 align="center">INVO Academy platform</h3>
+        <br />
+        <a target="_blank" href="https://platform.invo.academy">
+            <img src="https://i.imgur.com/7Og0hyh.png" width="100%" alt="Sign up form"/>
+        </a><br />
+        <p align="center">
+<!--   <a href="https://github.com/patsok/odin-dashboard" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=REPO&color=0c7767&style=plastic&logo=github&logo-color=white"/>
+  </a>   -->
+  <a href="https://platform.invo.academy" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=informational&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align='center'><strong>Vue</strong><br>Master the art of Frontend Development with comprehensive project-based learning curriculum.</p>
+    </td>
+  </tr>
+  
+  <tr>
+        <td width="50%" valign="top">
       <h3 align="center">Sign up for Norse Mythology</h3>
         <br />
         <a target="_blank" href="https://patsok.github.io/odin-signupform/">
@@ -80,9 +99,6 @@ I am seeking positions that will allow me to further refine my skills and contri
       </p>
         <p align='center'><strong>HTML, CSS, JS</strong><br>Sign up form in norse-themed design for The Odin Project</p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe</h3>
         <br />
@@ -98,22 +114,6 @@ I am seeking positions that will allow me to further refine my skills and contri
   </a>
       </p>
         <p align='center'><br><strong>HTML, CSS, JS</strong><br>Upgraded game from the childhood for The Odin Project</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">New brand calculator</h3>
-        <br />
-        <a target="_blank" href="https://patsok.github.io/odin-calculator/">
-            <img src="https://media.giphy.com/media/UmlmAhdvWozSKM9rud/giphy.gif" width="100%" alt="Sign up form"/>
-        </a><br />
-        <p align="center">
-  <a href="https://github.com/patsok/odin-calculator" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=REPO&color=0c7767&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://patsok.github.io/odin-calculator/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=informational&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align='center'><strong>HTML, CSS, JS</strong><br>Javascript calculator for everyday use for The Odin Project</p>
     </td>
   </tr>
 </table>
@@ -135,7 +135,7 @@ I am seeking positions that will allow me to further refine my skills and contri
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-    <img src="https://camo.githubusercontent.com/6ddea140b463f77ca151e8d60618c4398a6193ecb284512838c6cb8f556d8f5a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e7578742e6a7326636f6c6f723d323232323232266c6f676f3d4e7578742e6a73266c6f676f436f6c6f723d303044433832266c6162656c3d"/>
+    <img src="https://i.imgur.com/fegEe45.png"/>
   <br>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -161,6 +161,7 @@ I am seeking positions that will allow me to further refine my skills and contri
 </p>
 </p>
 <h2 align="center">In learning</h2><p align="center" >
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white"/>
